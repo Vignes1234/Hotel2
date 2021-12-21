@@ -4,7 +4,7 @@ public class LoginPage {
 
 	public LoginPage() {
 		System.out.println("Worked By Dev");
-		System.out.println("Updated");
+		System.out.println("Update");
 	
 	}
 }
